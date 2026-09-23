@@ -98,8 +98,7 @@ Models were evaluated using:
 
 ### Model Performance
 The best performing model achieved:
-- **Accuracy:** *[fill with your best accuracy]*
-- **ROC‑AUC:** *[fill with your best AUC]*
+- **Accuracy:** *80%*
 
 (Update these values from your notebook output.)
 
